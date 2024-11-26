@@ -44,7 +44,7 @@ public class IPL_Client {
 
 			String exit = "7.Exit";
 			if (count >= 1) {
-				System.out.printf("|%-30s|\n", exit);
+				System.out.printf("|%-50s|\n", exit);
 				System.out.println("---------------------------------------------------");
 
 			}
