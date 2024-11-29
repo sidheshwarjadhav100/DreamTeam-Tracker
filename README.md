@@ -20,17 +20,17 @@
 ## Project Structure
 DreamTeam-Tracker/  
 ├── com.sid.client/  
-│   └── IPL_Client.java  
+│             └── IPL_Client.java  
 ├── com.sid.controller/  
-│   └── IPLController.java  
+│             └── IPLController.java  
 ├── com.sid.dao/  
-│   └── IPL_Dao.java  
+│             └── IPL_Dao.java  
 ├── com.sid.entity/  
-│   └── Player.java  
+│              └── Player.java  
 ├── com.sid.service/  
-│   └── IPL_Service.java  
+│             └── IPL_Service.java  
 ├── com.sid.utility/  
-│   └── IPLUtility.java  
+│             └── IPLUtility.java  
 └── README.md  
 
 
